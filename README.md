@@ -1,7 +1,7 @@
 # GRiDISK Commander
 GRiDISK Commander - File manager for GRiD OS standard disks, that used in GRiD Compass laptops.
 
-![Main Window](https://raw.githubusercontent.com/Bs0Dd/GRiDISKCOM/gridiskcom4/mainwindow.png)
+![Main Window](https://raw.githubusercontent.com/Bs0Dd/GRiDISKCOM4/master/mainwindow.png)
 
 This is a **Qt4** version for old Windows (98-Vista) versions.
 
